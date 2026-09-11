@@ -76,19 +76,19 @@
 
 ## 🚀 Featured Projects
 
-### 🎙️ Resonance
-An open-source AI-powered Text-to-Speech and Voice Cloning platform built for teams. Users can generate natural speech, create custom voice clones, manage organizations, and pay only for what they use through metered billing.
+### 🌐 Browser Automation SaaS
+A collaborative, real-time visual workflow builder for browser automation. Design workflows together on a live canvas, execute them in cloud browsers, and replay every run down to the last step.
 
 **Highlights**
-* AI-powered Text-to-Speech generation
-* Zero-shot Voice Cloning
-* Multi-tenant architecture with organization-based access
-* Usage-based subscription billing
-* Type-safe end-to-end APIs
-* Production-ready authentication and authorization
+* Visual, draggable workflow canvas with real-time multiplayer editing
+* AI-powered browser actions — navigate, act, observe, extract, and run autonomous agent tasks
+* Durable, retryable execution with dependency-ordered workflow scheduling
+* Full run observability with step timing, outputs, failures, and session replays
+* Multi-tenant organization workspaces with plan-gated premium features
+* Node-to-node data passing via `{{ nodeId.path }}` expressions
 
 **Tech Stack**
-Next.js • React • TypeScript • tRPC • PostgreSQL • Prisma • Cloudflare R2 • Clerk • Polar • Chatterbox TTS • Sentry • Tailwind CSS
+Next.js • React • TypeScript • React Flow • Trigger.dev • Liveblocks • Stagehand • Browserbase • PostgreSQL • Drizzle • Clerk • Resend • Sentry • Railway
 
 ---
 
